@@ -1,0 +1,29 @@
+{
+    "fio": "Мажитов",
+    "ocenci": {
+        "matan": 4,
+        "russind language": 4,
+        "biologi": 4
+    },
+    "hobi": [
+        "игры",
+        "питбайки"
+    ],
+    "vozrast": 13,
+    "frends": {
+        "sana": {
+            "hobi": [
+                "рисовать",
+                "ролить"
+            ],
+            "vozrast": 14
+        },
+        "temur": {
+            "hobi": [
+                "дота",
+                "фид"
+            ],
+            "vozrast": 14
+        }
+    }
+}
